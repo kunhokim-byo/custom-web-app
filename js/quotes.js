@@ -1,47 +1,47 @@
 const quotes = [
     {
-        quote: "가",
-        quthor: "가",
+        quote: "You never know what life is like, until you have lived it",
+        quthor: "Marilyn Monroe",
     },
     {
-        quote: "나",
-        quthor: "나",
+        quote: "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+        quthor: "Mother Teresa",
     },
     {
-        quote: "다",
-        quthor: "디",
+        quote: "When you reach the end of your rope, tie a knot in it and hang on.",
+        quthor: "Franklin D. Roosevelt",
     },
     {
-        quote: "라",
-        quthor: "라",
+        quote: "Always remember that you are absolutely unique. Just like everyone else.",
+        quthor: "Margaret Mead",
     },
     {
-        quote: "마",
-        quthor: "마",
+        quote: "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+        quthor: "Robert Louis Stevenson",
     },
     {
-        quote: "바",
-        quthor: "바",
+        quote: "The future belongs to those who believe in the beauty of their dreams. ",
+        quthor: "Eleanor Roosevelt",
     },
     {
-        quote: "나사",
-        quthor: "나사",
+        quote: "Tell me and I forget. Teach me and I remember. Involve me and I learn. ",
+        quthor: "Benjamin Franklin",
     },
     {
-        quote: "나1",
-        quthor: "나2",
+        quote: "It is during our darkest moments that we must focus to see the light. ",
+        quthor: "Aristotle",
     },
     {
-        quote: "나3",
-        quthor: "나4",
+        quote: "Whoever is happy will make others happy too.",
+        quthor: "Anne Frank",
     },
     {
-        quote: "나5",
-        quthor: "나6",
+        quote: "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        quthor: "Ralph Waldo Emerson",
     },
     {
-        quote: "나7",
-        quthor: "나8",
+        quote: "If you think you are late, it is late.",
+        quthor: "Myungsu Park",
     },
 
 ];
