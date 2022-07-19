@@ -1,3 +1,29 @@
 .hidden{
     display: none;
 }
+
+#clock{
+    text-align: center;
+}
+
+#greeting{
+    text-align: center;
+}
+
+#todo-form{
+    text-align: center;
+}
+
+#todo-list{
+    text-align: center;
+    list-style-position: inside;
+}
+
+#quote{
+    text-align: center;
+}
+
+#weather{
+    text-align: center;
+}
+

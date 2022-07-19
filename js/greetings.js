@@ -54,4 +54,4 @@ if(savedUsername === null){
     paintGreetings(savedUsername);
 }
 
-link.addEventListener("click", handleLinkClick);
+
